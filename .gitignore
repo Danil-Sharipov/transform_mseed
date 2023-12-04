@@ -1,0 +1,5 @@
+
+*.txt
+*.gcf
+*.log
+logs/scheduler/latest
